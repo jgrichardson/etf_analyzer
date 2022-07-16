@@ -33,7 +33,7 @@ To run as a web application, from your terminal, enter:
 
 ```voila etf_analyzer.ipynb```
 
-![Run as a Web Application](images/voila.jpg)
+![Run as a Web Application](images/voila.png)
 
 
 [![ETF Analyzer Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
